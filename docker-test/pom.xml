@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>01-simple-springbootdocker</module>
+        <module>02-compose-test</module>
     </modules>
 
 
